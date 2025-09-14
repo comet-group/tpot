@@ -1,6 +1,6 @@
 # TPOT
 
-```TPOT``` is a ```Fortran``` code that enables Grand Canonical simulations of liquid/solid interface with Density Functional theory by controlling number of electrons in the simulation supercell so that the work function reaches a target value. It runs with the [VASP code](https://www.vasp.at/) and [VASPSol](https://github.com/zoowe/VASPsol/) package.
+```TPOT``` is a ```Fortran``` code that enables Grand Canonical simulations of liquid/solid interface with Density Functional theory by controlling number of electrons in the simulation supercell so that the work function reaches a target value. It runs with the [VASP code](https://www.vasp.at/) and [VASPSol](https://github.com/comet-group/VASPsol/) package.
 
 ## Installation
 
@@ -10,7 +10,7 @@ Follow the instruction for making change in [vasp](docs/vaspcode) code.
 
 :two: Update VASPSol
 
-Download and follow instruction at https://github.com/zoowe/VASPsol/
+Download and follow instruction at [https://github.com/comet-group/VASPsol/](https://github.com/comet-group/VASPsol/)
 
 :three: Copy main source code
 
